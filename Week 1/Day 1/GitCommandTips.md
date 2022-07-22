@@ -41,3 +41,9 @@
 >git branch -d "Nombre de la rama"
 >
 > **Sirve para borrar una rama**
+
+### Pull
+
+>git pull origin "Nombre de la rama"
+>
+> **Traer cosas de la rama a nuestro archivo**
