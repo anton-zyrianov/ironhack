@@ -24,13 +24,19 @@
 >
 > **Este comando sirve para empujar los cambios ya directos a github**
 
+### Crear una nueva rama
+
 >git checkout -b "Nombre de la rama"
 >
 > **Crear una nueva rama, "Rama" es un nombre, por ejemplo stage**
 
+### Moverse entre las ramas
+
 >git checkout master
 >
 > **Para moverse entre las ramas, si he creado rama stage y quiero volver a master -> git checkout master**
+
+### Eliminar una rama
 
 >git branch -d "Nombre de la rama"
 >
